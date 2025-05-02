@@ -1,4 +1,4 @@
-# Restaurant Ordering System 🍽️
+# Restaurant Ordering System 🍽️. 
 
 A simple command-line based Restaurant Ordering System implemented in Python using CSV files to manage menu data, admin login, and customer orders.
 
