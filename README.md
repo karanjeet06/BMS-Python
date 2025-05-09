@@ -9,7 +9,7 @@ A simple command-line based Restaurant Ordering System implemented in Python usi
 - Add new menu items
 - Remove existing items
 - Update price and quantity of items
-- View full menu
+- View full menu.
 
 ### 🧑‍🍳 Customer Panel
 - View available menu items
